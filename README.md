@@ -1,3 +1,7 @@
+
+<img width="2560" height="686" alt="Black White Modern Financial Content YouTube Banner" src="https://github.com/user-attachments/assets/768b1d06-8f4c-4a87-a2d9-eec4a99270b8" />
+
+
 <img width="3560" height="740" alt="Black White Modern Financial Content YouTube Banner" src="https://github.com/user-attachments/assets/224430da-176a-408a-970e-32d696c749cd"/>
 <h1 align="center">Hi 👋, I'm Fida ur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
