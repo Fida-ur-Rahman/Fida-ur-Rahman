@@ -1,5 +1,4 @@
-<img src="img_girl.jpg" alt="Girl in<img width="2560" height="1440" alt="Black White Modern Financial Content YouTube Banner" src="https://github.com/user-attachments/assets/224430da-176a-408a-970e-32d696c749cd" />
- a jacket">
+<img width="2560" height="1440" alt="Black White Modern Financial Content YouTube Banner" src="https://github.com/user-attachments/assets/224430da-176a-408a-970e-32d696c749cd"/>
 <h1 align="center">Hi 👋, I'm Fida ur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
