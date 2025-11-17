@@ -1,3 +1,4 @@
+<img src="img_girl.jpg" alt="Girl in a jacket">
 <h1 align="center">Hi 👋, I'm Fida ur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
