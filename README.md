@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I have successfully completed my MERN Stack Development and am now learning DevOps.
 
-- 💬 Ask me about **HTML5, CSS3, JS, React js and Tailwind CSS**
+- 💬 Ask me about HTML5, CSS3, JavaScript, React.js, Tailwind CSS, MongoDB, Express.js, React, and Node.js.
 
 - 📫 How to reach me **fida461985@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/fida-ur-rahman7595/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" style="margin: 0 8px;"/>
   </a>
