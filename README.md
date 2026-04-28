@@ -21,7 +21,7 @@
 - ⚡ Fun fact **Iam funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="">
+<p>
 <a href="https://www.linkedin.com/in/fida-ur-rahman7595/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fida-ur-rahman-7595" height="30" width="40" /></a> 
 <a href="https://fb.com/fida ur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fida ur rahman" height="30" width="40" /></a>
 <a href="https://instagram.com/fida.ur.rahman.7595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fida ur rahman" height="30" width="40" /></a>
