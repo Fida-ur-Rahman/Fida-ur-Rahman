@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/fida-ur-rahman7595/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" style="margin: 0 8px;"/>
   </a>
