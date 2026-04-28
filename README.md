@@ -4,7 +4,7 @@
 
 <!-- <img width="3560" height="740" alt="Black White Modern Financial Content YouTube Banner" src="https://github.com/user-attachments/assets/224430da-176a-408a-970e-32d696c749cd"/> -->
 <h1 align="center">Hi 👋, I'm Fida ur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan specializing in the MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fida-ur-Rahman&label=Profile%20views&color=0e75b6&style=flat" alt="Fida-ur-Rahman" /> </p>
 
